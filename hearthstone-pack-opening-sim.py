@@ -9,10 +9,13 @@ class Rarity:
     Epic = 2
     Legendary = 3
 
+# Com, Rare, Epic, Leg
 class Expansion:
     Expert = [94,81,37,33]
     GvG = [40,37,26,20]
     TGT = [49,36,27,20]
+    WotOG = [50,36,27,21]
+    MSoG = [49,36,27,20]
 
 class Dust:
     Enc = [40, 100, 400, 1600]
